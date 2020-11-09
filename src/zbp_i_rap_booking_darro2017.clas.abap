@@ -1,0 +1,5 @@
+CLASS zbp_i_rap_booking_darro2017 DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_rap1_travel_darro2017.
+ENDCLASS.
+
+CLASS zbp_i_rap_booking_darro2017 IMPLEMENTATION.
+ENDCLASS.
